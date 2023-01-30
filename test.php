@@ -3,6 +3,7 @@
   <title>PHP-Test</title>
  </head>
  <body>
-  <?php echo '<h1>Hello php world...............this is some changes u dnt want to commit</h1><h3>Welcome to WPMU DEV</h3>'; ?>
+  <?php echo '<h1>Hello php world...............this is some changes u dnt want to commit</h1>
+  <h3>Welcome to php...h3>'; ?>
  </body>
 </html>
