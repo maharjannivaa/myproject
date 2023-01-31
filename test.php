@@ -3,7 +3,7 @@
   <title>PHP-Test</title>
  </head>
  <body>
-  <?php echo '<h1>This is the commit that I dnt want to change</h1>'
+  <?php echo '<h1>Last commit</h1>'
   ?>
  </body>
 </html>
